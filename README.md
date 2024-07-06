@@ -23,7 +23,7 @@ Other versions:
 
 Want to change position?
 
-    Go to DRIVELETTER:/Steam/steamapps/workshop/content/371970/3281958237/data/HUD_settings.json
+    Go to Professional HUD 4-3AR/data/HUD_settings.json
     Find entry with "hpmpbar" (144 line).
     Change "hpmpbar_x_offset" for X position and "hpmpbar_y_offset" for Y position. I don't know how to exactly do accurate measurement so it's just a lot of guessing and trys. That's what i did anyway.
 
