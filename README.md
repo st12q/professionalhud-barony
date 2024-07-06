@@ -8,12 +8,17 @@ I don't know exactly, but if you have another mod that changes HUD_settings.json
 Optimized for 16:9 and 16:10 aspect ratio.
 Doesn't disable achievements.
 
+Installation:
+
+    Press on green button Code>Download ZIP>Unpack ZIP>You will find folder Professional HUD 16-9_16-10AR, drop it in mods folder.
+
+Steam version:
+
+    https://steamcommunity.com/sharedfiles/filedetails/?id=3281956896
+
 Other versions:
 
-    Version for 5:4 AR: https://steamcommunity.com/sharedfiles/filedetails/?id=3281957927
-    Version for 4:3 AR: https://steamcommunity.com/sharedfiles/filedetails/?id=3281958237
-    Version for 43:18 (3440x1440) AR: https://steamcommunity.com/sharedfiles/filedetails/?id=3281957555
-
+    You can find them in different branches.
 
 Want to change position?
 
