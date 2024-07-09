@@ -17,6 +17,10 @@ Steam version:
 
     https://steamcommunity.com/sharedfiles/filedetails/?id=3281956896
 
+Steam version (Alternative version):
+
+    https://steamcommunity.com/sharedfiles/filedetails/?id=3285453557
+
 Other versions:
 
     You can find them in different branches.
