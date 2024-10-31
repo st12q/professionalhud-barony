@@ -1,6 +1,6 @@
 # professionalhud-barony
 Mod for Barony: Professional HUD - Closer to center
-FOR version v4.2.1.
+FOR version v4.3.0.
 Much more comfortable HP/MP and buffs/debuffs position (closer to center, nearby to crosshair)
 Tired of dying because of Levitation wears off, but you didn't see this because you were fighting Imp? Then this mod is for you.
 
@@ -9,9 +9,11 @@ I don't know exactly, but if you have another mod that changes HUD_settings.json
 Optimized for 43:18 aspect ratio(supposedly). Only 3440x1440 was tested.
 Doesn't disable achievements.
 
-Installation:
+Installation (NOT IN MODS FOLDER!!!):
 
-    Press on green button Code>Download ZIP>Unpack ZIP>You will find folder Professional HUD 43-18AR, drop it in mods folder.
+    Press on green button Code>Download ZIP>Unpack ZIP>You will find folder Professional HUD 16-9_16-10AR, make a backup of HUD_settings.json from folder data in game folder and drop it in !!data!! folder and replace file.
+
+For some reason on version 4.3.0 this mod refuses to load from mod menu and freezes the game.
 
 Steam version:
 
