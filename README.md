@@ -11,7 +11,7 @@ Doesn't disable achievements.
 
 Installation (NOT IN MODS FOLDER!!!):
 
-    Press on green button Code>Download ZIP>Unpack ZIP>You will find folder Professional HUD 16-9_16-10AR, make a backup of HUD_settings.json from folder data in game folder and drop it in !!data!! folder and replace file.
+    Press on green button Code>Download ZIP>Unpack ZIP>You will find folder Professional HUD 4-3AR, make a backup of HUD_settings.json from folder data in game folder and drop it in !!data!! folder and replace file.
 
 For some reason on version 4.3.0 this mod refuses to load from mod menu and freezes the game.
 
