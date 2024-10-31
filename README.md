@@ -15,10 +15,6 @@ Installation (NOT IN MODS FOLDER!!!):
 
 For some reason on version 4.3.0 this mod refuses to load from mod menu and freezes the game.
 
-Steam version:
-
-    https://steamcommunity.com/sharedfiles/filedetails/?id=3281958237
-
 Other versions:
 
     You can find them in different branches.
