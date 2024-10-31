@@ -1,6 +1,6 @@
 # professionalhud-barony
 Mod for Barony: Professional HUD - Closer to center
-Created on version v4.2.1.
+FOR version v4.2.1.
 Much more comfortable HP/MP and buffs/debuffs position (closer to center, nearby to crosshair)
 Tired of dying because of Levitation wears off, but you didn't see this because you were fighting Imp? Then this mod is for you.
 
