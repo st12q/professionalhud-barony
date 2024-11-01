@@ -9,11 +9,13 @@ I don't know exactly, but if you have another mod that changes HUD_settings.json
 Optimized for 5:4 aspect ratio.
 Doesn't disable achievements.
 
-Installation (NOT IN MODS FOLDER!!!):
+Installation:
 
-    Press on green button Code>Download ZIP>Unpack ZIP>You will find folder Professional HUD 5-4AR, make a backup of HUD_settings.json from folder data in game folder and drop it in !!data!! folder and replace file.
+    Press on green button Code>Download ZIP>Unpack ZIP>You will find folder Professional HUD 5-4AR, drop it in mods folder.
 
-For some reason on version 4.3.0 this mod refuses to load from mod menu and freezes the game.
+Steam version:
+
+    https://steamcommunity.com/sharedfiles/filedetails/?id=3281957927
 
 Other versions:
 
