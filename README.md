@@ -9,7 +9,7 @@ I don't know exactly, but if you have another mod that changes HUD_settings.json
 Optimized for 43:18 aspect ratio(supposedly). Only 3440x1440 was tested.
 Doesn't disable achievements.
 
-Installation (NOT IN MODS FOLDER!!!):
+Installation:
 
     Press on green button Code>Download ZIP>Unpack ZIP>You will find folder Professional HUD 43-18AR, drop it in mods folder.
 
