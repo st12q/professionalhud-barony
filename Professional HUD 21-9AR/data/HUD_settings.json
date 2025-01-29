@@ -143,8 +143,8 @@
 	},
 	"hpmpbar": {
 		"hpmpbar_width_offset": -90,
-		"hpmpbar_x_offset": 340,
-		"hpmpbar_y_offset": -200,
+		"hpmpbar_x_offset": 660,
+		"hpmpbar_y_offset": -180,
 		"hpmpbar_compact_width_offset": -124,
 		"hpmpbar_compact_x_offset": -14,
 		"hpmpbar_compact_y_offset": 36,
