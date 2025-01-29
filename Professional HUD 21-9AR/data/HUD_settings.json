@@ -609,8 +609,7 @@
 			"capsule_tall": -8,
 			"barrel": -3,
 			"stump": -6,
-			"bat": 4,
-			"assist_shrine": -8
+			"bat": 4
 		},
 		"screen_depth_distance_offset": {
 			"default": 0,
