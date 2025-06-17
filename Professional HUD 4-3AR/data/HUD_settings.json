@@ -581,6 +581,7 @@
 			"chair": -5,
 			"chest": 0,
 			"door": 0,
+			"iron_door": 0,
 			"breakable_wall": -5,
 			"object": 0,
 			"jar": -3,
@@ -650,6 +651,7 @@
 			"table": 0,
 			"chair": 0,
 			"chest": 0,
+			"iron_door": 25,
 			"door": 25,
 			"breakable_wall": 25,
 			"object": 0
@@ -864,6 +866,9 @@
 		"show_orange_always": true,
 		"show_red_always": true,
 		"show_green_yellow_briefly": true
+	},
+	"voice_record": {
+		"enabled": true
 	},
 	"dmg_number_anim_curve": {
 		"default": [
