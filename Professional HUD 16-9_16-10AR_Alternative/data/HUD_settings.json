@@ -51,6 +51,12 @@
 			"b": 206,
 			"a": 255
 		},
+		"charsheet_dlc3_text": {
+			"r": 255,
+			"g": 64,
+			"b": 64,
+			"a": 255
+		},
 		"charsheet_neutral_text": {
 			"r": 188,
 			"g": 154,
@@ -611,7 +617,9 @@
 			"barrel": -3,
 			"stump": -6,
 			"bat": 4,
-			"assist_shrine": -8
+			"assist_shrine": -8,
+			"mushroom_spell": -6,
+			"shrub": -4
 		},
 		"screen_depth_distance_offset": {
 			"default": 0,
